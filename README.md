@@ -1,3 +1,5 @@
-* [Pengenalan Dasar Python dan Persiapan Awal](https://www.petanikode.com/python-linux/)
-* [5 Aturan Penulisan Sintaks Python yang Harus dipatuhi](https://www.petanikode.com/python-sintaks/)
+1. [Mengenal Bahasa Pemrograman Python](https://www.petanikode.com/python-linux/)
+2. [Aturan Dasar Penulisan Sintaks Python](https://www.petanikode.com/python-sintaks/)
     * [aturan_sintaks.py](aturan_sintaks.py)
+3. [Mengenal Variabel dan Tipe Data di Python](https://www.petanikode.com/python-variabel-dan-tipe-data/)
+4. [Fungsi Input dan Output di Python](https://www.petanikode.com/python-input-output/) 
