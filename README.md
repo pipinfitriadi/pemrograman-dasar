@@ -16,3 +16,6 @@
     * [percabangan/cek_umur.py](percabangan/cek_umur.py)
     * [percabangan/grade_nilai.py](percabangan/grade_nilai.py)
     * [percabangan/grade_nilai_versi_lainnya.py](percabangan/grade_nilai_versi_lainnya.py)
+7. [Perulangan di Python](https://www.petanikode.com/python-perulangan/)
+    * [perulangan/for.py](perulangan/for.py)
+    * [perulangan/while.py](perulangan/while.py)
