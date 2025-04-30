@@ -1,3 +1,7 @@
+# Pemrograman Dasar
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU "Youtube: Animation vs. Coding")
+
 1. [Mengenal Bahasa Pemrograman Python](https://www.petanikode.com/python-linux/)
 2. [Aturan Dasar Penulisan Sintaks Python](https://www.petanikode.com/python-sintaks/)
     * [aturan_sintaks.py](aturan_sintaks.py)
