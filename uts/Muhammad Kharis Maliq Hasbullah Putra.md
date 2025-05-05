@@ -1,6 +1,6 @@
 # Pencarian Angka Genap Terakhir
 
-Buat program last_even.py yang:
+Buat program `last_even.py` yang:
 
 1. Membaca **M** bilangan bulat.
 2. Selama pembacaan, simpan hanya bilangan genap terakhir yang ditemui.
