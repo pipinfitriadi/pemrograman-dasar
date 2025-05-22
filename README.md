@@ -32,3 +32,6 @@
     * [list/memotong_list.py](list/memotong_list.py)
     * [list/operasi_list.py](list/operasi_list.py)
     * [list/multi_dimensi_list.py](list/multi_dimensi_list.py)
+9. [Tuple & Set](https://www.petanikode.com/python-tuple/)
+    * [tuple.py](tuple.py)
+    * [set.py](set.py)
