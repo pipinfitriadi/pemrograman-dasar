@@ -16,7 +16,7 @@ except KeyError as error:
 
 print({(1,2): "tes"})  # Key itu harus immutable: str, int, float, bool, tuple
 
-print("2. Membuat Dictionary")
+print("\n2. Membuat Dictionary")
 value = True
 key3 = "key3"
 nama_dict = {
@@ -39,7 +39,7 @@ print(pak_tani)
 warna_buah = dict(jeruk="orange", apel="merah", pisang="kuning")
 print(warna_buah)
 
-print("3. Mengakses Nilai Item dari Dictionary")
+print("\n3. Mengakses Nilai Item dari Dictionary")
 print(f"Nama saya adalah {pak_tani['nama']}")
 print(f'Twitter: {pak_tani["sosmed"]["twitter"]}')
 print(f"Hobi ke-2: {pak_tani["hobi"][1]}")
@@ -52,7 +52,7 @@ except KeyError as error:
 
 print(pak_tani.get("alamat"))
 
-print("Menggunakan Perulangan")
+print("\nMenggunakan Perulangan")
 web = {
     "name": "petanikode",
     "url": "https://www.petanikode.com",
@@ -65,14 +65,12 @@ for key in web:
 for key, val in web.items():
     print(f"{key}: {val}")
 
-print("4. Mengubah Nilai Item Dictionary")
-print(web)
-web["alamat"] = "Bandung"
+print("\n4. Mengubah Nilai Item Dictionary")
 print(web)
 web["rank"] = '3'
 print(web)
 
-print("5. Menghapus Item dari Dictionary")
+print("\n5. Menghapus Item dari Dictionary")
 skill = {
     "utama": "Python",
     "lainnya": ["PHP","Java", "HTML"]
@@ -94,3 +92,25 @@ print(skill_2)
 print(web)
 web.clear()
 print(web)
+
+print("\n6. Menambahkan Item ke Dictionary")
+user = {
+    "name": "petanikode"
+}
+print(user)
+user.update({"password": "akucintakamu123"})
+print(user)
+user.update({"name": "peternaklinux"})
+print(user)
+user["alamat"] = "Bandung"
+print(user)
+user["password"] = "alaybanget321"
+print(user)
+
+print("\n7. Mengambil Panjang Dictionary")
+books = {
+    "python": "Menguasai Python dalam 2028 jam",
+    "java": "Tutorial Belajar untuk Pemula",
+    "php": "Membuat aplikasi web dengan PHP"
+}
+print(f"total buku: {len(books)}")
