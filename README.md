@@ -35,3 +35,5 @@
 9. [Tuple & Set](https://www.petanikode.com/python-tuple/)
     * [tuple.py](tuple.py)
     * [set.py](set.py)
+10. [Dictionary](https://www.petanikode.com/python-dictionary/)
+    * [dictionary.py](dictionary.py)
