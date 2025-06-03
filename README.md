@@ -37,3 +37,5 @@
     * [set.py](set.py)
 10. [Dictionary](https://www.petanikode.com/python-dictionary/)
     * [dictionary.py](dictionary.py)
+11. [Fungsi](https://www.petanikode.com/python-fungsi/)
+12. [Fungsi Lambda](https://www.petanikode.com/python-lambda/)
