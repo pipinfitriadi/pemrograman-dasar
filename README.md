@@ -39,5 +39,5 @@
     * [dictionary.py](dictionary.py)
 11. [Fungsi](https://www.petanikode.com/python-fungsi/)
 12. [Fungsi Lambda](https://www.petanikode.com/python-lambda/)
-13. [Parameter *args dan **kwargs pada Python](https://www.petanikode.com/python-args-kwargs/)
     * [lambda.py](lambda.py)
+13. [Parameter *args dan **kwargs pada Python](https://www.petanikode.com/python-args-kwargs/)
