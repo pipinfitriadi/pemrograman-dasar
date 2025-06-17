@@ -41,3 +41,4 @@
 12. [Fungsi Lambda](https://www.petanikode.com/python-lambda/)
     * [lambda.py](lambda.py)
 13. [Parameter *args dan **kwargs pada Python](https://www.petanikode.com/python-args-kwargs/)
+    * [args_kwargs.py](args_kwargs.py)
