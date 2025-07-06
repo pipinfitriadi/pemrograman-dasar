@@ -1,4 +1,4 @@
-# istem Penilaian Lari Estafet Antar-Kelas
+# Sistem Penilaian Lari Estafet Antar-Kelas
 
 **_File_:** `penilaian_lari_estafet.py`
 
