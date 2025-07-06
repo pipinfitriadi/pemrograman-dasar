@@ -4,11 +4,11 @@
 
 Sebuah badan riset nasional ingin membuat sistem untuk merekomendasikan dana pendanaan ke berbagai proyek inovasi. Setiap proyek memiliki sejumlah parameter evaluasi:
 
-* `id_proyek` (integer unik)
+* `id_proyek` (_integer_ unik)
 * `nilai_inovasi` (0–100)
 * `nilai_keberlanjutan` (0–100)
 * `nilai_skala` (0–100)
-* `anggaran_diminta` (integer dalam juta rupiah)
+* `anggaran_diminta` (_integer_ dalam juta rupiah)
 
 Tugas sistem:
 
@@ -27,8 +27,8 @@ Tugas sistem:
 
 ## _Input_
 
-* Baris pertama: integer `N` — jumlah proyek
-* Baris kedua: integer `B` — total anggaran tersedia (juta rupiah)
+* Baris pertama: _integer_ `N` — jumlah proyek
+* Baris kedua: _integer_ `B` — total anggaran tersedia (juta rupiah)
 * N baris berikutnya: setiap baris berisi 5 angka dipisah spasi:
 
   ```

@@ -22,7 +22,7 @@ Aturan pemrosesan:
 ## _Input_
 
 * Baris pertama: tiga angka `kv kr ke` — kapasitas awal tiap kategori
-* Baris kedua: integer `N` — jumlah pemesan
+* Baris kedua: _integer_ `N` — jumlah pemesan
 * N baris berikutnya:
 
   `nama preferensi1 preferensi2 preferensi3`

@@ -20,7 +20,7 @@ Program tidak perlu mengoptimalkan jumlah total warga yang bertugas, cukup memen
 
 ## _Input_
 
-* Baris pertama: integer `M` — jumlah minggu
+* Baris pertama: _integer_ `M` — jumlah minggu
 * 7 baris berikutnya mewakili hari Senin hingga Minggu, masing-masing berisi:
 
   ```
